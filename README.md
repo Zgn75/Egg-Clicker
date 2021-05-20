@@ -11,7 +11,6 @@ Python
 -
 
 # To do:
--
 ~Music Option~
 -
 ~Total Click Count~
