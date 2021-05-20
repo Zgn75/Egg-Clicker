@@ -4,8 +4,11 @@ Made a Egg Clicker game using Python, Pygame.
 Used libraries:
 
 Millify
+-
 Pygame
+-
 Python
+-
 
 To do:
 
