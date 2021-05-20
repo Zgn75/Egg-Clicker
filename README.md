@@ -1,8 +1,9 @@
 # Egg-Clicker
 Made a Egg Clicker game using Python, Pygame.
 
-Used libraries:
+#Used libraries:
 
+-
 Millify
 -
 Pygame
@@ -10,8 +11,9 @@ Pygame
 Python
 -
 
-To do:
-
+-
+#To do:
+-
 ~Music Option~
 -
 ~Total Click Count~
